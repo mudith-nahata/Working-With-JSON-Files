@@ -5,7 +5,11 @@ To read the files, we use read_json() function and through it, we pass the path 
 
 # Topics Covered:-
 -->pandas.read_json
+
 -->Load JSON from URL
+
 -->Save to JSON file
+
 -->Load JSON from File
+
 -->Pandas to JSON example
